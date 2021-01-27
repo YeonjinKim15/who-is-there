@@ -1,6 +1,6 @@
 /*
-This code scans through DynamoDB
-and returns first 100 items in http api
+This code is a AWS Lambda code 
+which scans through DynamoDB and returns first 100 items in http api
 */
 
 const AWS = require('aws-sdk');
